@@ -4,7 +4,7 @@
     - Dataframe intro
     - Series into
 
-- [Chapter 2, *Inspecting and Must Know Operations*](./02_Inspecting_and_Must-Know_operations.ipynb.ipynb)
+- [Chapter 2, *Inspecting and Must Know Operations*](./02_Inspecting_and_Must-Know_operations.ipynb)
     - Inspecting operations
     - Renaming columns
     - Summary functions/stats
